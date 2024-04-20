@@ -14,6 +14,7 @@ Clone and `npm install` the app and then run `npm start` at root directory to se
 
 ## Let me see how it works.
 
+The video shows how this app handles loading, data and errors. In the video, I turn off network and go offline to force and error to show on screen. In the end, you npm packages for any search
 
 
 https://github.com/Step-henC/react-redux-ts/assets/98792412/d9843ea6-e97f-46e3-adf6-a29c01483e8d
